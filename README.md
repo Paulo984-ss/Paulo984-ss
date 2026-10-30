@@ -41,8 +41,5 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paulo984-ss&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center"><i>"Aprender um pouco todo dia." 💻</i></p>
